@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "North Lanarkshire",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-21T07:15:51.048Z",
+      "notes": "",
+      "position": {
+        "lat": "55.875310835696816",
+        "lng": "-4.042968750000001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "North West Leicestershire",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-21T07:16:07.470Z",
+      "notes": "",
+      "position": {
+        "lat": "52.802761415419674",
+        "lng": "-1.40625"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-21T07:16:23.916Z",
+      "notes": "",
+      "position": {
+        "lat": "28.65203063036226",
+        "lng": "77.29980468750001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Dehra Dun",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-21T07:16:42.326Z",
+      "notes": "",
+      "position": {
+        "lat": "30.41078179084589",
+        "lng": "78.11279296875001"
+      },
+      "id": 4
+    }
+  ]
+}
